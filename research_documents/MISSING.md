@@ -11,7 +11,7 @@ Source: derived from `INDEX.md`. 12 items not yet obtained; 6 already downloaded
 | 3 | Dong, Li & Hu (2020). OCT/µ-XRF/µ-Raman of a stratified eye bead. *Chinese Optics Letters* 18(9): 090001. | 10.1364/COL.18.090001 | https://opg.optica.org/col/abstract.cfm?uri=col-18-9-090001 | Optica |
 | 4 | Liu et al. (2012). Silk Road glass in Xinjiang. *J. Archaeological Science* 39(7): 2128–2142. | 10.1016/j.jas.2012.02.035 | https://www.sciencedirect.com/science/article/abs/pii/S0305440312001471 | Elsevier |
 | 5 | Gan, Cheng, Hu et al. (2009). Earliest glass eye-beads, Xu Jialing Tomb. *Science China Ser. E* 52: 922–927. | 10.1007/s11431-008-0341-0 | https://link.springer.com/article/10.1007/s11431-008-0341-0 | Springer |
-| 6 | Gan et al. (2013). Dragonfly eye beads, Shenmingpu Chu tomb. *Microscopy and Microanalysis* 19(2): 335–343. | 10.1017/S1431927612014201 | https://pubmed.ncbi.nlm.nih.gov/23388379/ | Cambridge Core |
+| 6 | Yang, Wang, Wei et al. (2013). Nondestructive analysis of dragonfly eye beads from the Warring States period, Shenmingpu Chu tomb, Henan. *Microscopy and Microanalysis* 19(2): 335–343. | 10.1017/S1431927612014201 | https://pubmed.ncbi.nlm.nih.gov/23388379/ | Cambridge Core |
 | 7 | Zhang et al. (2025). Vitreous beads, Shijia-Yucun site. *J. Arch. Sci.: Reports* 64. | 10.1016/j.jasrep.2025.105127 | https://www.sciencedirect.com/science/article/abs/pii/S2352409X25001609 | Elsevier |
 
 ## No Open Copy Found / Venue Unclear
