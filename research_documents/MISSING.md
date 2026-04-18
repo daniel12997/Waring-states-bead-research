@@ -4,15 +4,15 @@ Source: derived from `INDEX.md`. 12 items not yet obtained; 6 already downloaded
 
 ## Paywalled (journal access required)
 
-| # | Citation | URL | Publisher |
-|---|---|---|---|
-| 1 | Zhao & Gan (2014). Stratified eye beads from Marquis Yi of Zeng. *X-Ray Spectrometry* 43(6): 316–324. | https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/xrs.2557 | Wiley |
-| 2 | Zhao & Li (2017). Stratified glass eye beads from China. *J. Raman Spectroscopy* 48(8): 1103–1110. | https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jrs.5177 | Wiley |
-| 3 | Dong, Li & Hu (2020). OCT/µ-XRF/µ-Raman of a stratified eye bead. *Chinese Optics Letters* 18(9): 090001. | https://opg.optica.org/col/abstract.cfm?uri=col-18-9-090001 | Optica |
-| 4 | Liu et al. (2012). Silk Road glass in Xinjiang. *J. Archaeological Science* 39(7): 2128–2142. | https://www.sciencedirect.com/science/article/abs/pii/S0305440312001471 | Elsevier |
-| 5 | Gan, Cheng, Hu et al. (2009). Earliest glass eye-beads, Xu Jialing Tomb. *Science China Ser. E* 52: 922–927. | https://link.springer.com/article/10.1007/s11431-008-0341-0 | Springer |
-| 6 | Gan et al. (2013). Dragonfly eye beads, Shenmingpu Chu tomb. *Microscopy and Microanalysis* 19(2): 335–343. | https://pubmed.ncbi.nlm.nih.gov/23388379/ | Cambridge Core |
-| 7 | Zhang et al. (2025). Vitreous beads, Shijia-Yucun site. *J. Arch. Sci.: Reports* 64. | https://www.sciencedirect.com/science/article/abs/pii/S2352409X25001609 | Elsevier |
+| # | Citation | DOI | URL | Publisher |
+|---|---|---|---|---|
+| 1 | Zhao & Gan (2014). Stratified eye beads from Marquis Yi of Zeng. *X-Ray Spectrometry* 43(6): 316–324. | 10.1002/xrs.2557 | https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/xrs.2557 | Wiley |
+| 2 | Zhao & Li (2017). Stratified glass eye beads from China. *J. Raman Spectroscopy* 48(8): 1103–1110. | 10.1002/jrs.5177 | https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jrs.5177 | Wiley |
+| 3 | Dong, Li & Hu (2020). OCT/µ-XRF/µ-Raman of a stratified eye bead. *Chinese Optics Letters* 18(9): 090001. | 10.1364/COL.18.090001 | https://opg.optica.org/col/abstract.cfm?uri=col-18-9-090001 | Optica |
+| 4 | Liu et al. (2012). Silk Road glass in Xinjiang. *J. Archaeological Science* 39(7): 2128–2142. | 10.1016/j.jas.2012.02.035 | https://www.sciencedirect.com/science/article/abs/pii/S0305440312001471 | Elsevier |
+| 5 | Gan, Cheng, Hu et al. (2009). Earliest glass eye-beads, Xu Jialing Tomb. *Science China Ser. E* 52: 922–927. | 10.1007/s11431-008-0341-0 | https://link.springer.com/article/10.1007/s11431-008-0341-0 | Springer |
+| 6 | Gan et al. (2013). Dragonfly eye beads, Shenmingpu Chu tomb. *Microscopy and Microanalysis* 19(2): 335–343. | 10.1017/S1431927612014201 | https://pubmed.ncbi.nlm.nih.gov/23388379/ | Cambridge Core |
+| 7 | Zhang et al. (2025). Vitreous beads, Shijia-Yucun site. *J. Arch. Sci.: Reports* 64. | 10.1016/j.jasrep.2025.105127 | https://www.sciencedirect.com/science/article/abs/pii/S2352409X25001609 | Elsevier |
 
 ## No Open Copy Found / Venue Unclear
 
