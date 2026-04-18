@@ -2,7 +2,7 @@
 
 Source PDFs: `horned_eye_beads_resources.pdf`, `warring_states_beads_resources.pdf` (parent folder).
 
-## Downloaded (10)
+## Downloaded (14)
 
 | File | Citation | Access |
 |---|---|---|
@@ -16,18 +16,18 @@ Source PDFs: `horned_eye_beads_resources.pdf`, `warring_states_beads_resources.p
 | `Liu_2012_JAS_Silk_Road_glass_Xinjiang.pdf` | Liu et al. (2012). Silk Road glass in Xinjiang. *J. Archaeological Science* 39(7): 2128–2142. | Paywalled (via Anna's Archive) |
 | `Gan_2009_SciChina_Xu_Jialing_earliest_glass_eye_beads.pdf` | Gan, Cheng, Hu et al. (2009). Earliest glass eye-beads, Xu Jialing Tomb. *Science China Ser. E* 52: 922–927. | Paywalled (via Anna's Archive) |
 | `Yang_2013_MMA_Shenmingpu_dragonfly_eye_beads.pdf` | Yang, Wang, Wei et al. (2013). Nondestructive analysis of dragonfly eye beads from the Warring States period, Shenmingpu Chu tomb, Henan. *Microscopy and Microanalysis* 19(2): 335–343. | Paywalled (via Anna's Archive) |
+| `Zhao_Li_2017_JRS_stratified_glass_eye_beads.pdf` | Zhao & Li (2017). Combined spectroscopic analysis of stratified glass eye beads from China dated to the Warring States period. *J. Raman Spectroscopy* 48(8): 1103–1110. | Paywalled (via Anna's Archive) |
+| `Henderson_An_Ma_2018_Archaeometry_Chinese_glass_review.pdf` | Henderson, An & Ma (2018). The Archaeometry and Archaeology of Ancient Chinese Glass: a Review. *Archaeometry*. | Paywalled (via Anna's Archive) |
+| `Wood_Freestone_Stapleton_1999_ISAC_Polychrome_glazes_Warring_States_ceramic_bead.pdf` | Wood, Freestone & Stapleton (1999). Early Polychrome Glazes on a Chinese Ceramic Bead of the Warring States Period. *ISAC 99*, Shanghai. | Conference paper |
+| `Liu_RK_Zhou_silicate_beads_shared_technologies.pdf` | Liu, Robert K. *Zhou Silicate Beads: Shared Technologies.* | Via Anna's Archive |
 
 ## Not Downloaded — Paywalled or No Open Copy Found
 
 | Citation | URL | Status |
 |---|---|---|
-| Zhao & Li (2017). Stratified glass eye beads from China. *J. Raman Spectroscopy* 48(8): 1103–1110. | https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jrs.5177 | Wiley paywall |
 | Dong, Li & Hu (2020). OCT/µ-XRF/µ-Raman of a stratified eye bead. *Chinese Optics Letters* 18(9): 090001. | https://opg.optica.org/col/abstract.cfm?uri=col-18-9-090001 | Optica paywall |
 | Zhang et al. (2025). Vitreous beads, Shijia-Yucun site. *J. Arch. Sci.: Reports* 64. | https://www.sciencedirect.com/science/article/abs/pii/S2352409X25001609 | Elsevier paywall |
-| Wood, Freestone & Stapleton (1999). Polychrome glazes on a Warring States ceramic bead. *ISAC 99*, Shanghai. | Scholar search fallback | Conference paper; not online |
-| Henderson, An & Ma (2018). Archaeometry of Ancient Chinese Glass: Review. | Scholar search fallback | Venue unclear in source |
 | Braghin, C. ed. (2002). *Chinese Glass: Archaeological Studies…* Olschki. | https://www.worldcat.org/title/.../51477334 | Book — library loan |
-| Liu, Robert K. *Zhou Silicate Beads: Shared Technologies.* | Scholar search fallback | Venue unclear |
 | Mitsopoulou. Eye-Shaped and Horned Glass Beads from China and Greece. | https://www.greecetravel.com/archaeology/mitsopoulou/glass.html | Web essay (not PDF) |
 
 ## Museum/Collection Links (not documents)
