@@ -2,7 +2,7 @@
 
 Source PDFs: `horned_eye_beads_resources.pdf`, `warring_states_beads_resources.pdf` (parent folder).
 
-## Downloaded (14)
+## Downloaded (16)
 
 | File | Citation | Access |
 |---|---|---|
@@ -20,6 +20,8 @@ Source PDFs: `horned_eye_beads_resources.pdf`, `warring_states_beads_resources.p
 | `Henderson_An_Ma_2018_Archaeometry_Chinese_glass_review.pdf` | Henderson, An & Ma (2018). The Archaeometry and Archaeology of Ancient Chinese Glass: a Review. *Archaeometry*. | Paywalled (via Anna's Archive) |
 | `Wood_Freestone_Stapleton_1999_ISAC_Polychrome_glazes_Warring_States_ceramic_bead.pdf` | Wood, Freestone & Stapleton (1999). Early Polychrome Glazes on a Chinese Ceramic Bead of the Warring States Period. *ISAC 99*, Shanghai. | Conference paper |
 | `Liu_RK_Zhou_silicate_beads_shared_technologies.pdf` | Liu, Robert K. *Zhou Silicate Beads: Shared Technologies.* | Via Anna's Archive |
+| `Mitsopoulou_web_Eye_shaped_horned_glass_beads_China_Greece.pdf` | Mitsopoulou, T. *Eye-Shaped and Horned Glass Beads from China and Greece.* Web essay (greecetravel.com). | Free (web) |
+| `LiHui_2008_EASTM_review_of_Braghin_2002_Chinese_Glass.pdf` | Li, Hui (2008). Review of Braghin (ed.), *Chinese Glass…* *East Asian Science, Technology, and Medicine* 29(1): 84–. | Free (Brill / EASTM) |
 
 ## Not Downloaded — Paywalled or No Open Copy Found
 
@@ -27,8 +29,7 @@ Source PDFs: `horned_eye_beads_resources.pdf`, `warring_states_beads_resources.p
 |---|---|---|
 | Dong, Li & Hu (2020). OCT/µ-XRF/µ-Raman of a stratified eye bead. *Chinese Optics Letters* 18(9): 090001. | https://opg.optica.org/col/abstract.cfm?uri=col-18-9-090001 | Optica paywall |
 | Zhang et al. (2025). Vitreous beads, Shijia-Yucun site. *J. Arch. Sci.: Reports* 64. | https://www.sciencedirect.com/science/article/abs/pii/S2352409X25001609 | Elsevier paywall |
-| Braghin, C. ed. (2002). *Chinese Glass: Archaeological Studies…* Olschki. | https://www.worldcat.org/title/.../51477334 | Book — library loan |
-| Mitsopoulou. Eye-Shaped and Horned Glass Beads from China and Greece. | https://www.greecetravel.com/archaeology/mitsopoulou/glass.html | Web essay (not PDF) |
+| Braghin, C. ed. (2002). *Chinese Glass: Archaeological Studies…* Olschki. | https://www.worldcat.org/title/.../51477334 | Book — library loan (Li Hui 2008 review obtained) |
 
 ## Museum/Collection Links (not documents)
 

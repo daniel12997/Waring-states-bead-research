@@ -1,6 +1,6 @@
 # Missing Documents — Warring States & Horned Eye Beads
 
-Source: derived from `INDEX.md`. 4 items not yet obtained; 14 already downloaded.
+Source: derived from `INDEX.md`. 3 items not yet obtained; 16 already downloaded (includes Li Hui 2008 review of the Braghin book as a supplementary resource).
 
 ## Paywalled (journal access required)
 
@@ -9,12 +9,11 @@ Source: derived from `INDEX.md`. 4 items not yet obtained; 14 already downloaded
 | 1 | Dong, Li & Hu (2020). OCT/µ-XRF/µ-Raman of a stratified eye bead. *Chinese Optics Letters* 18(9): 090001. | 10.1364/COL.18.090001 | https://opg.optica.org/col/abstract.cfm?uri=col-18-9-090001 | Optica |
 | 2 | Zhang et al. (2025). Vitreous beads, Shijia-Yucun site. *J. Arch. Sci.: Reports* 64. | 10.1016/j.jasrep.2025.105127 | https://www.sciencedirect.com/science/article/abs/pii/S2352409X25001609 | Elsevier |
 
-## Books & Web Essays
+## Books
 
 | # | Citation | URL | Notes |
 |---|---|---|---|
-| 3 | Braghin, C. ed. (2002). *Chinese Glass: Archaeological Studies…* Olschki. | https://www.worldcat.org/title/.../51477334 | Book — library loan |
-| 4 | Mitsopoulou. *Eye-Shaped and Horned Glass Beads from China and Greece.* | https://www.greecetravel.com/archaeology/mitsopoulou/glass.html | Web essay (not PDF) |
+| 3 | Braghin, C. ed. (2002). *Chinese Glass: Archaeological Studies…* Olschki. | https://www.worldcat.org/title/.../51477334 | Book — library loan. Li Hui (2008) review of this book is in the repo as a supplementary summary. |
 
 ## Suggested Legitimate Routes
 
